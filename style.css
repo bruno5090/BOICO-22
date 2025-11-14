@@ -5,3 +5,11 @@ body {
 .cabeçalho {
     margin-bottom: 0px;
 }
+.cabeçalho {
+background-color: aqua;
+color: black;
+display: flex
+justify-content: space-around;
+aling-items: center;
+padding: 24px 0;
+}
