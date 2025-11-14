@@ -13,3 +13,6 @@ justify-content: space-around;
 aling-items: center;
 padding: 24px 0;
 }
+.cabeçalho-titulo {
+    font-size: 54px;
+}
